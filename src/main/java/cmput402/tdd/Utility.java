@@ -6,7 +6,7 @@ import cmput402.tdd.service.Search;
 
 public class Utility {
 
-	public HashMap<String, Integer>  countAverageScore(Search search){
+	public HashMap<String, Float>  countAverageScore(Search search){
 		
 		return null;
 	}
